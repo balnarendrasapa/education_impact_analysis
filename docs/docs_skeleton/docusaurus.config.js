@@ -5,7 +5,7 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 const organizationName = "balnarendrasapa";
-const projectName = "deep_learning";
+const projectName = "education_impact_analysis";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -60,7 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "Education Impact Analysis",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
