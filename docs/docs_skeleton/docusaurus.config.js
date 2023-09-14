@@ -9,8 +9,8 @@ const projectName = "education_impact_analysis";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Deep Learning",
-  tagline: "Notes for Class",
+  title: "Education Impact Analysis",
+  tagline: "Project Documentation built with docusaurus",
   url: `https://${organizationName}.github.io`,
   baseUrl: `/${projectName}/`,
   onBrokenLinks: "throw",
